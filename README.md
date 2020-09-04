@@ -9,3 +9,29 @@ I am active on [Twitter](https://twitter.com/victorkagarama) and [LinkedIn](http
 
 Write to victor.kagarama@pm.me
 
+```python
+>>> from universe import Space
+>>> s = Space()
+>>> s.zoom_to('pale blue dot')
+
+
+.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　　　　　　　　　.　　　ﾟ　　　　   　　　　　
+　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 
+          　　　　 　　　　　　　　　　　　,　　   　                             ☀️                      .
+.　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　.　　  ✦
+　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　  　　　　
+　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　.　　
+　　　　　　　　　　　. 　　　　　　　　　　　　.　　　　       　   　　　　 　　　　　　　　　　　　　　
+　　       　   　　　　　　　　　　　　　　　˚　       　    ✦ 　   　　　,　　　　　　　　　　    　　　　 　　,
+　　　 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　   🌑
+    　　　　　　　　　　　　　　　˚　　　 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　
+　　　　　　.　　　  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　     🚀  
+　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　
+　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　  　　　　　   　　　　　.　　
+　　　　　　　　　.　　　　　　　　　　   　                                                               .
+　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 🌎　  
+,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　
+ 　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　, 　　   　　　　　 ✦ 　　　　
+　.　　　　　　　　　　　　　　.  　　* 　　   　　　　　 ✦ 　　
+ ```
+
