@@ -7,7 +7,7 @@ I’m a developer, tech enthusiast and [blogger](https://dev.to/victorkagarama) 
 
 I am active on [Twitter](https://twitter.com/victorkagarama) and [LinkedIn](https://linkedin.com/in/victorkagarama). 
 
-Write to victor.kagarama@pm.me
+Write to victorkagarama[at]pm[dot]me
 
 ```python
 >>> from universe import Space
