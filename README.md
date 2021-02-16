@@ -1,4 +1,4 @@
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Victor!
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Victor!
 I’m a developer, tech enthusiast and [blogger](https://dev.to/victorkagarama) building my ideas through technology.
 
 📖️ Currently learning: **React Js** <br>
