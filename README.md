@@ -6,30 +6,3 @@ a software engineer & tech enthusiast interested in the future of digital paymen
 let's connect on [twitter](https://twitter.com/victorkagarama) and [linkedin](https://linkedin.com/in/victorkagarama). 
 
 write to victorkagarama[at]pm[dot]me
-
-```python
->>> from universe import Space
->>> s = Space()
->>> s.zoom_to('pale blue dot')
-
-
-.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　　　　　　　　　.　　　ﾟ　　　　   　　　　　
-　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 
-          　　　　 　　　　　　　　　　　　,　　   　                             ☀️                      .
-.　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　.　　  ✦
-　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　  　　　　
-　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　.　　
-　　　　　　　　　　　. 　　　　　　　　　　　　.　　　　       　   　　　　 　　　　　　　　　　　　　　
-　　       　   　　　　　　　　　　　　　　　˚　       　    ✦ 　   　　　,　　　　　　　　　　    　　　　 　　,
-　　　 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　   🌑
-    　　　　　　　　　　　　　　　˚　　　 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　
-　　　　　　.　　　  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　     🚀  
-　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　
-　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　  　　　　　   　　　　　.　　
-　　　　　　　　　.　　　　　　　　　　   　                                                               .
-　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 🌎　  
-,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　
- 　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　, 　　   　　　　　 ✦ 　　　　
-　.　　　　　　　　　　　　　　.  　　* 　　   　　　　　 ✦ 　　
- ```
-
