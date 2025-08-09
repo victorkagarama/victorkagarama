@@ -1,13 +1,11 @@
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Victor!
-I’m a developer, tech enthusiast and [blogger](https://dev.to/victorkagarama) building my ideas through technology.
+# hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i’m Victor!
+a software engineer & tech enthusiast interested in the future of digital payments.
 
-📖️ Currently learning: **React Js** <br>
+📖️ currently focused on: **Cloud Technologies & DevOps Engineering** <br>
 
-**Interested in:** Mobile Tech, Artificial Intelligence, Video Games, Social Media, and Memes. Yes, **MEMES**! 😃
+let's connect on [twitter](https://twitter.com/victorkagarama) and [linkedin](https://linkedin.com/in/victorkagarama). 
 
-I am active on [Twitter](https://twitter.com/victorkagarama) and [LinkedIn](https://linkedin.com/in/victorkagarama). 
-
-Write to victorkagarama[at]pm[dot]me
+write to victorkagarama[at]pm[dot]me
 
 ```python
 >>> from universe import Space
