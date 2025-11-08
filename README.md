@@ -5,4 +5,4 @@ a software engineer & tech enthusiast who's passionate about the future of digit
 
 let's connect on [twitter](https://twitter.com/victorkagarama) and [linkedin](https://linkedin.com/in/victorkagarama). 
 
-write to victorkagarama[at]pm[dot]me
+write to victorkagarama[at]protonmail[dot]com
